@@ -4,8 +4,8 @@ __pycache__
 
 # Distribution / packaging
 .Python build/
-dist/ l
-ib/ 
+dist/
+lib/ 
 lib64/ 
 sdist/ 
 var/ 
