@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main(){
-	int a = 10;
-	return a * 20;
+	int a = 5 , b = 2;
+	return a * b;
 
 }
